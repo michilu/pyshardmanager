@@ -1,0 +1,17 @@
+{
+  "algorithm": "range-int",
+  "map" : {
+    "0"    : {
+      "host" : "host0"
+    },
+    "1000" : {
+      "driver"   : "driver1000",
+      "host"     : "host1000",
+      "port"     : 1000,
+      "dbname"   : "dbname1000",
+      "username" : "username1000",
+      "password" : "password1000",
+      "attr"     : "attr1000"
+    }
+  }
+}
